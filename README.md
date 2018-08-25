@@ -9,8 +9,8 @@ The questions are related to states.
 ## JavaScript
 ## JavaScript library MomentsJS
 
-Pseudocode:
-The game uses arrays to store the questions and the questions are displayed by pulling from the array randomly.
-Another function controls the timer.
-Another funciton have  to keep record of the correct answers.
-Another function resets the game.
+# Pseudocode:
+#### The game uses arrays to store the questions and the questions are displayed by pulling from the array randomly.
+#### Another function controls the timer.
+#### Another funciton have  to keep record of the correct answers.
+#### Another function resets the game.
